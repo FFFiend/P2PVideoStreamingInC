@@ -1,6 +1,7 @@
 # P2PVideoStreamingInC
 BAYZED
 
+# GPT O1-Preview with the assist
 How to Approach Writing the Protocol in C
 
 Here’s a high-level guide to how you could write the various components of a P2P video streaming system in C:
